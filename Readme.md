@@ -1,1 +1,1 @@
-projeto de um portifólio da Rocketseat desenvolvido em html css
+projeto de um portifolio da Rocketseat desenvolvido em html css
